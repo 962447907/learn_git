@@ -16,3 +16,7 @@ Git has a mutable index called stage.
 管理修改
 
 管理修改2
+
+```
+Git tracks changes.
+```
